@@ -1,0 +1,46 @@
+<!--  
+<h1>Simbolos Especiais</h1>
+<p>
+    &lt; <!-- Menor que 
+    &gt; <!-- Maior que 
+    &ge; <!-- Maior que 
+    &le; <!-- Menor que
+    <br>
+    &pound; <!-- Simbolo de Libras 
+    &yen;
+    &euro; <!-- Simbolo de euro 
+    <br>
+    &copy;
+    &reg;
+    &trade;
+    <br>
+    &permil;
+    &sum;
+    &infin;
+    &times;
+    &plusmn;
+    &oplus;
+    &radic;
+    &ne;
+    <br>
+    &delta;<!-- Minusculo 
+    &Delta;<!-- Maiúsculo 
+    &Lambda;
+    &Omega;
+    &Phi;
+    <br>
+    &larr; <!-- seta esquerda 
+    &rarr;<!-- seta direita 
+    &Rarr;<!-- seta diferente 
+    &uarr;
+    &darr;
+    &harr;<!-- seta para os dois lados 
+   <br>
+   <!-- simbolo de cartas 
+   &spades;
+   &clubs;
+   &hearts;
+   &diams;
+   <br>
+   <del> <!-- texto que foi "deletado", grifado por cima da palavra 
+</p>-->
